@@ -12,4 +12,4 @@ A interface do projeto é desenvolvida utilizando HTML, CSS e Bootstrap, fornece
 
 Em suma, o "Rastreador de Corrida" é uma aplicação web completa que utiliza tecnologias como HTML, JavaScript, CSS, Bootstrap e APIs para fornecer uma solução eficaz no monitoramento de corridas, exibindo informações importantes como velocidade máxima, duração e percurso percorrido em um mapa interativo.
 
-esse projeto faz parte de exercicios do curso de Desinvolvimento Web fullStak [!(@ProgramadorBr)(https://www.instagram.com/progbr/)]
+esse projeto faz parte de exercicios do curso de Desinvolvimento Web fullStak [[@ProgramadorBr](https://www.instagram.com/progbr/)]
